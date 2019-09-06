@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="book-flight-module" duration-ms="205009" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:22:11Z">
+    <groups>
+    </groups>
+    <test name="book-flight-2" duration-ms="69475" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:19:56Z">
+      <class name="com.newtours.tests.BookFlightTest">
+        <test-method status="PASS" signature="setupDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="setupDriver" is-config="true" duration-ms="12377" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:18:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@67b64c45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="setupParameters(java.lang.String, java.lang.String)[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="setupParameters" is-config="true" duration-ms="1" started-at="2019-09-04T07:18:59Z" depends-on-methods="com.tests.BaseTest.setupDriver" finished-at="2019-09-04T07:18:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[$1169 USD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupParameters -->
+        <test-method status="PASS" signature="registrationPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="registrationPageTest" duration-ms="6908" started-at="2019-09-04T07:18:59Z" finished-at="2019-09-04T07:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method status="PASS" signature="registrationConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="registrationConfirmationTest" duration-ms="44610" started-at="2019-09-04T07:19:06Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationPageTest" finished-at="2019-09-04T07:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationConfirmationTest -->
+        <test-method status="PASS" signature="flightDetailsPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="flightDetailsPageTest" duration-ms="1371" started-at="2019-09-04T07:19:50Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationConfirmationTest" finished-at="2019-09-04T07:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDetailsPageTest -->
+        <test-method status="PASS" signature="findFlightPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="findFlightPageTest" duration-ms="2476" started-at="2019-09-04T07:19:52Z" depends-on-methods="com.newtours.tests.BookFlightTest.flightDetailsPageTest" finished-at="2019-09-04T07:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFlightPageTest -->
+        <test-method status="PASS" signature="printConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="printConfirmationTest" duration-ms="1100" started-at="2019-09-04T07:19:54Z" depends-on-methods="com.newtours.tests.BookFlightTest.findFlightPageTest" finished-at="2019-09-04T07:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printConfirmationTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.newtours.tests.BookFlightTest@56cbfb61]" name="quitDriver" is-config="true" duration-ms="603" started-at="2019-09-04T07:19:55Z" finished-at="2019-09-04T07:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.newtours.tests.BookFlightTest -->
+    </test> <!-- book-flight-2 -->
+    <test name="book-flight-1" duration-ms="105350" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:20:32Z">
+      <class name="com.newtours.tests.BookFlightTest">
+        <test-method status="PASS" signature="setupDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="setupDriver" is-config="true" duration-ms="71724" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:19:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4411d970]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="setupParameters(java.lang.String, java.lang.String)[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="setupParameters" is-config="true" duration-ms="3" started-at="2019-09-04T07:19:58Z" depends-on-methods="com.tests.BaseTest.setupDriver" finished-at="2019-09-04T07:19:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[$1169 USD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupParameters -->
+        <test-method status="PASS" signature="registrationPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="registrationPageTest" duration-ms="6765" started-at="2019-09-04T07:19:58Z" finished-at="2019-09-04T07:20:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method status="PASS" signature="registrationConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="registrationConfirmationTest" duration-ms="19314" started-at="2019-09-04T07:20:05Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationPageTest" finished-at="2019-09-04T07:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationConfirmationTest -->
+        <test-method status="PASS" signature="flightDetailsPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="flightDetailsPageTest" duration-ms="1291" started-at="2019-09-04T07:20:24Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationConfirmationTest" finished-at="2019-09-04T07:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDetailsPageTest -->
+        <test-method status="PASS" signature="findFlightPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="findFlightPageTest" duration-ms="2474" started-at="2019-09-04T07:20:26Z" depends-on-methods="com.newtours.tests.BookFlightTest.flightDetailsPageTest" finished-at="2019-09-04T07:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFlightPageTest -->
+        <test-method status="PASS" signature="printConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="printConfirmationTest" duration-ms="1060" started-at="2019-09-04T07:20:28Z" depends-on-methods="com.newtours.tests.BookFlightTest.findFlightPageTest" finished-at="2019-09-04T07:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printConfirmationTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.newtours.tests.BookFlightTest@35851384]" name="quitDriver" is-config="true" duration-ms="2714" started-at="2019-09-04T07:20:29Z" finished-at="2019-09-04T07:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.newtours.tests.BookFlightTest -->
+    </test> <!-- book-flight-1 -->
+    <test name="book-flight-4" duration-ms="163154" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:21:30Z">
+      <class name="com.newtours.tests.BookFlightTest">
+        <test-method status="PASS" signature="setupDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="setupDriver" is-config="true" duration-ms="107450" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:20:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6442b0a6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="setupParameters(java.lang.String, java.lang.String)[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="setupParameters" is-config="true" duration-ms="0" started-at="2019-09-04T07:20:34Z" depends-on-methods="com.tests.BaseTest.setupDriver" finished-at="2019-09-04T07:20:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[$1169 USD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupParameters -->
+        <test-method status="PASS" signature="registrationPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="registrationPageTest" duration-ms="6748" started-at="2019-09-04T07:20:34Z" finished-at="2019-09-04T07:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method status="PASS" signature="registrationConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="registrationConfirmationTest" duration-ms="43327" started-at="2019-09-04T07:20:41Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationPageTest" finished-at="2019-09-04T07:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationConfirmationTest -->
+        <test-method status="PASS" signature="flightDetailsPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="flightDetailsPageTest" duration-ms="1274" started-at="2019-09-04T07:21:24Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationConfirmationTest" finished-at="2019-09-04T07:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDetailsPageTest -->
+        <test-method status="PASS" signature="findFlightPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="findFlightPageTest" duration-ms="2509" started-at="2019-09-04T07:21:25Z" depends-on-methods="com.newtours.tests.BookFlightTest.flightDetailsPageTest" finished-at="2019-09-04T07:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFlightPageTest -->
+        <test-method status="PASS" signature="printConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="printConfirmationTest" duration-ms="1112" started-at="2019-09-04T07:21:28Z" depends-on-methods="com.newtours.tests.BookFlightTest.findFlightPageTest" finished-at="2019-09-04T07:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printConfirmationTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.newtours.tests.BookFlightTest@7c30a502]" name="quitDriver" is-config="true" duration-ms="729" started-at="2019-09-04T07:21:29Z" finished-at="2019-09-04T07:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.newtours.tests.BookFlightTest -->
+    </test> <!-- book-flight-4 -->
+    <test name="book-flight-3" duration-ms="204997" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:22:11Z">
+      <class name="com.newtours.tests.BookFlightTest">
+        <test-method status="PASS" signature="setupDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="setupDriver" is-config="true" duration-ms="165175" started-at="2019-09-04T07:18:46Z" finished-at="2019-09-04T07:21:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@60f82f98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="setupParameters(java.lang.String, java.lang.String)[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="setupParameters" is-config="true" duration-ms="1" started-at="2019-09-04T07:21:32Z" depends-on-methods="com.tests.BaseTest.setupDriver" finished-at="2019-09-04T07:21:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[$1169 USD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupParameters -->
+        <test-method status="PASS" signature="registrationPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="registrationPageTest" duration-ms="6793" started-at="2019-09-04T07:21:32Z" finished-at="2019-09-04T07:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method status="PASS" signature="registrationConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="registrationConfirmationTest" duration-ms="27316" started-at="2019-09-04T07:21:38Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationPageTest" finished-at="2019-09-04T07:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationConfirmationTest -->
+        <test-method status="PASS" signature="flightDetailsPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="flightDetailsPageTest" duration-ms="1276" started-at="2019-09-04T07:22:06Z" depends-on-methods="com.newtours.tests.BookFlightTest.registrationConfirmationTest" finished-at="2019-09-04T07:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDetailsPageTest -->
+        <test-method status="PASS" signature="findFlightPageTest()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="findFlightPageTest" duration-ms="2437" started-at="2019-09-04T07:22:07Z" depends-on-methods="com.newtours.tests.BookFlightTest.flightDetailsPageTest" finished-at="2019-09-04T07:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFlightPageTest -->
+        <test-method status="PASS" signature="printConfirmationTest()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="printConfirmationTest" duration-ms="1285" started-at="2019-09-04T07:22:09Z" depends-on-methods="com.newtours.tests.BookFlightTest.findFlightPageTest" finished-at="2019-09-04T07:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printConfirmationTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.newtours.tests.BookFlightTest@2752f6e2]" name="quitDriver" is-config="true" duration-ms="710" started-at="2019-09-04T07:22:11Z" finished-at="2019-09-04T07:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.newtours.tests.BookFlightTest -->
+    </test> <!-- book-flight-3 -->
+  </suite> <!-- book-flight-module -->
+</testng-results>
