@@ -1,0 +1,3 @@
+com\tests\BaseTest.class
+com\searchModule\tests\SearchTest.class
+com\newtours\tests\BookFlightTest.class
