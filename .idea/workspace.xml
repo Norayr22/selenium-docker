@@ -3,96 +3,7 @@
   <component name="ChangeListManager">
     <list id="ae93f511-061d-4721-97d1-ea1042ecc110" name="Revert &quot;new line at the end of file&quot;" comment="Revert &quot;new line at the end of file&quot;&#10;&#10;This reverts commit b84e970" />
     <list id="dbcdf3d2-a25d-45e7-91c7-59b3d2627932" name="Revert: new line at the end of file" comment="" />
-    <list default="true" id="e5103407-5ac2-4df1-9ca6-05f4b91bc6fe" name="Default" comment="new line at the end of file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookFlightModule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookFlightModule.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/allure-results/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/book-flight-4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/book-flight-module/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/junitreports/TEST-com.newtours.tests.BookFlightTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/book-flight-1.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/book-flight-2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/book-flight-3.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/book-flight-4.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/book-flight-module/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/book-result/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/junitreports/TEST-com.searchModule.tests.SearchTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/search-test-docker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/search-test-java.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/search-test-kubernetes.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/search-test-qa.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/search-test-webdriver.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/old/search-module/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-docker.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-docker.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-java.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-kubernetes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-kubernetes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-qa.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-qa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-webdriver.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/search-module/search-test-webdriver.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search-result/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/selenium-docker-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/selenium-docker-tests.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/selenium-docker.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/selenium-docker.jar" afterDir="false" />
-    </list>
+    <list default="true" id="e5103407-5ac2-4df1-9ca6-05f4b91bc6fe" name="Default" comment="new line at the end of file" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -287,9 +198,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="315" />
-    <option name="width" value="1440" />
-    <option name="height" value="780" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -654,7 +566,7 @@
       <workItem from="1568359660280" duration="4427000" />
       <workItem from="1568392689704" duration="2504000" />
       <workItem from="1568617859244" duration="12178000" />
-      <workItem from="1568718388186" duration="1897000" />
+      <workItem from="1568718388186" duration="3136000" />
     </task>
     <servers />
   </component>
@@ -691,7 +603,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119880000" />
+    <option name="totallyTimeSpent" value="121119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -708,10 +620,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.33072627" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.3148148" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.3148148" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29957357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29957357" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.7164179" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />

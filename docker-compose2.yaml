@@ -22,4 +22,4 @@ services:
       - BROWSER=chrome
       - MODULE=bookFlightModule.xml
     volumes:
-      - ./output/search-result:/usr/share/udemy/test-output
+      - ./output/search-result:/usr/share/dir/test-output

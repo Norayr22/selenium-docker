@@ -27,7 +27,7 @@ services:
       - HUB_HOST=hub
       - MODULE=searchModule.xml
     volumes:
-      - ./output/firefox-search-result:/usr/share/udemy/test-output
+      - ./output/firefox-search-result:/usr/share/dir/test-output
   search-module2:
     image: nksanoro/selenium-docker
     depends_on:
