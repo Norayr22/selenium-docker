@@ -1,96 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list id="dbcdf3d2-a25d-45e7-91c7-59b3d2627932" name="Revert: new line at the end of file" comment="" />
     <list default="true" id="e5103407-5ac2-4df1-9ca6-05f4b91bc6fe" name="Default" comment="new line at the end of file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/book-flight-module/book-flight-4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/junitreports/TEST-com.newtours.tests.BookFlightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/junitreports/TEST-com.newtours.tests.BookFlightTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/old/book-flight-module/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-book-result/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-book-result/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/junitreports/TEST-com.searchModule.tests.SearchTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/junitreports/TEST-com.searchModule.tests.SearchTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-java.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-java.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-kubernetes.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-kubernetes.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-qa.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-qa.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-webdriver.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/search-test-webdriver.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/old/search-module/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-docker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-docker.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-java.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-java.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-kubernetes.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-kubernetes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-kubernetes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-kubernetes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-qa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-qa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-webdriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-webdriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-webdriver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/search-module/search-test-webdriver.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/chrome-search-result/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/chrome-search-result/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/book-flight-module/book-flight-4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/junitreports/TEST-com.newtours.tests.BookFlightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/junitreports/TEST-com.newtours.tests.BookFlightTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-3.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-3.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-4.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/book-flight-4.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/book-flight-module/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-book-result/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-book-result/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/junitreports/TEST-com.searchModule.tests.SearchTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/junitreports/TEST-com.searchModule.tests.SearchTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-java.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-java.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-kubernetes.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-kubernetes.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-qa.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-qa.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-webdriver.properties" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/search-test-webdriver.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/old/search-module/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-docker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-docker.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-java.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-java.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-java.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-kubernetes.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-kubernetes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-kubernetes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-kubernetes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-qa.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-qa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-qa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-qa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-webdriver.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-webdriver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-webdriver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/search-module/search-test-webdriver.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/firefox-search-result/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/firefox-search-result/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searchModule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/searchModule.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <list id="ae93f511-061d-4721-97d1-ea1042ecc110" name="Revert &quot;new line at the end of file&quot;" comment="Revert &quot;new line at the end of file&quot;&#10;&#10;This reverts commit b84e970" />
-    <list id="dbcdf3d2-a25d-45e7-91c7-59b3d2627932" name="Revert: new line at the end of file" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,6 +40,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="bookFlightModule.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookFlightModule.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,8 +61,8 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -179,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docker-compose.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docker-compose.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="-281">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -220,7 +144,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/tests/SearchTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/searchModule/Pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/searchModule/tests/SearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/heal.sh" />
@@ -229,8 +152,9 @@
         <option value="$PROJECT_DIR$/searchModule.xml" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/healthcheck.sh" />
-        <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/docker-compose.yaml" />
+        <option value="$PROJECT_DIR$/Jenkinsfile" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -545,7 +469,7 @@
       <workItem from="1568285830941" duration="2576000" />
       <workItem from="1568359660280" duration="4427000" />
       <workItem from="1568392689704" duration="2504000" />
-      <workItem from="1568617859244" duration="7701000" />
+      <workItem from="1568617859244" duration="7824000" />
     </task>
     <servers />
   </component>
@@ -582,7 +506,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113506000" />
+    <option name="totallyTimeSpent" value="113629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -892,13 +816,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output/testng-results.xml" />
     <entry file="file://$PROJECT_DIR$/output/index.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/healthcheck1.sh" />
     <entry file="file://$PROJECT_DIR$/healthcheck.sh___jb_old___" />
     <entry file="file://$PROJECT_DIR$/healthcheck.sh___jb_tmp___" />
@@ -927,10 +844,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/healthcheck.sh">
+    <entry file="file://$PROJECT_DIR$/docker-compose2.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="90" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="90" />
+        <state relative-caret-position="360">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -941,17 +865,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+    <entry file="file://$PROJECT_DIR$/healthcheck.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="6" column="90" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose2.yaml">
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -962,10 +886,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yaml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="486">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
