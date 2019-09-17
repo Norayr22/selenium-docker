@@ -2,8 +2,6 @@ version: "3"
 services:
   hub:
     image: selenium/hub
-    ports:
-      - "4444:4444"
   chrome:
     image: selenium/node-chrome-debug
     depends_on:
@@ -61,4 +59,6 @@ services:
       - MODULE=bookFlightModule.xml
     volumes:
       - ./output/chrome-book-result:/usr/share/udemy/test-output
+
+#      System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "") we should add it for archiving the test-output
 
